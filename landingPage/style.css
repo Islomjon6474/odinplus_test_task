@@ -1,0 +1,161 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* font-family: "Rubik", sans-serif !important; */
+  word-break: break-all;
+}
+
+p {
+  margin-bottom: 0;
+}
+.radius {
+  border-radius: 14px !important;
+}
+.gradient {
+  border-radius: 15px !important;
+  padding: 1px !important;
+  background: linear-gradient(to right, #ffc107, #fdd446) !important;
+  height: fit-content !important;
+}
+.card {
+  min-height: 275px !important;
+  height: fit-content !important;
+}
+.bez-slov {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 22px;
+}
+.name {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 11px;
+}
+.small-image {
+  width: 30px;
+  height: 30px;
+}
+.zvezda {
+  width: 9px;
+  height: 9px;
+}
+.provereno {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 11px;
+}
+.redkost {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 16px;
+}
+.unikal {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 17px;
+  border-radius: 5px;
+}
+.gradient-text {
+  background: linear-gradient(#ffc107, #ec851a);
+  border-radius: 5px;
+  padding: 1px;
+}
+.price {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 17px;
+  background-color: #fdd446;
+  border-radius: 5px;
+}
+.buyBtn {
+  background: linear-gradient(90deg, #fdd446 0%, #f79b47 100%);
+  border-radius: 8px;
+  font-family: "Istok Web";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+}
+.cont {
+  width: 320px;
+  z-index: 1;
+}
+.pageNum {
+  font-family: "Istok Web";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 38px;
+}
+.pageNumDiv {
+  width: 40px;
+  height: 40px;
+  background-color: #fdd446;
+}
+.footStyle {
+  background-color: #fdd446;
+}
+.star {
+  width: 40px;
+  height: 40px;
+}
+.footerText {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.firstSection {
+  position: relative;
+}
+.group249 {
+  position: absolute;
+  width: 173.92px;
+  height: 161.35px;
+  left: -41px;
+  top: 115px;
+  z-index: -1;
+}
+
+.group318 {
+  position: absolute;
+  width: 221.62px;
+  height: 203.53px;
+  left: 95px;
+  top: 717px;
+  z-index: -1;
+  background: rgba(253, 212, 70, 0.3);
+  filter: blur(36.0348px);
+}
+.svyacheniye8 {
+  position: absolute;
+  width: 153.95px;
+  height: 141.21px;
+  left: -36px;
+  top: 2300px;
+  z-index: -1;
+  background: rgba(253, 212, 70, 0.3);
+  filter: blur(38.0348px);
+}
+
+.svyacheniye11 {
+  position: absolute;
+  width: 320px;
+  height: 457.21px;
+  z-index: -1;
+  top: 3650px;
+}
